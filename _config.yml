@@ -1,12 +1,12 @@
-title:              "블로그 제목"
-tagline:            "블로그 슬로건"
-email:              "your-email@example.com"
-description:        "블로그 설명"
-author:             "작성자 이름"
+title:              "차이네잡화점"
+tagline:            "오늘도 괜찮은 사람으로 한 걸음"
+email:              "singa_chai@naver.com"
+description:        "꽤나 괜찮은 어른이 되기 위한 차근차근 한 걸음을 담아내는 기록들"
+author:             "싱아"
 baseurl:            "/"
-url:                "https://도메인"
+url:                "https://chai-a.com"
 locale:             "ko_KR"
-thumbnail:          "/img/thumbnail.jpg"
+thumbnail:          "/img/main_thumbnail.png"
 
 # Social Profiles
 twitter_username:   twitter_username
