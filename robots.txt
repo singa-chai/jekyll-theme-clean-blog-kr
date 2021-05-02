@@ -1,0 +1,5 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://chai-a.com/sitemap.xml
+#DaumWebMasterTool:de28165b5bfd843b8f50e1d1d5ebaa5eb7d24c90dff7066a311b4b4638442c2d:SBDn+3M1gAUD2c6N/ci3rg==
