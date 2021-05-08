@@ -5,7 +5,7 @@ title: '마케터가 구독하는 마케팅/트렌드 뉴스레터 추천'
 date: 2021-04-24 18:00:00 +09:00
 feature: '/img/posts/newsletter/thumbnail.png'
 categories:
-  - essay
+  - MARKETING
 tags:
   - 뉴스레터
   - 뉴스레터추천
