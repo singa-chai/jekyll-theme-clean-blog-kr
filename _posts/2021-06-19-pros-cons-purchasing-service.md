@@ -1,7 +1,7 @@
 ---
 layout: post
 permalink: /pros-cons-purchasing-service/
-title: '직접 해보고 알려주는 해외구매대행 사업의 장점과 단점'
+title: '직접 해보고 알려주는 해외구매대행의 장점과 단점'
 date: 2021-06-19 09:00:00 +09:00
 feature: '/img/posts/pros-cons-purchasing-service/thumbnail.png'
 categories:
