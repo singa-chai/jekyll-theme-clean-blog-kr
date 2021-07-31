@@ -3,7 +3,7 @@ layout: post
 permalink: /without-learning-Chinese/
 title: '중국어 못해도 중국 구매대행 할 수 있을까요?'
 date: 2021-07-31 21:00:00 +09:00
-feature: '/img/posts/ without-learning-Chinese/thumbnail.png'
+feature: '/img/posts/without-learning-Chinese/thumbnail.png'
 categories:
   - MARKETING
 tags:
