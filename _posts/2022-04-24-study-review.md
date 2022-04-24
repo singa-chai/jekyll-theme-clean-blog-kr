@@ -2,7 +2,7 @@
 layout: post
 permalink: /study-review/
 title: 'REVIEW | 마개이너 스터디를 마치며'
-date: 2022-04-24 11:00:00 +09:00
+date: 2022-04-24 09:00:00 +09:00
 feature: '/img/posts/study-review/thumbnail.png'
 categories:
   - ESSAY
